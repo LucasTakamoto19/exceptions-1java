@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Teste
+ *
+ */
+module excecao {
+}
